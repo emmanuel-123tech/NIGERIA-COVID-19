@@ -4,4 +4,6 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 
 Nigeria is a country with 37 states - Federal Capital Territory included- and a fast-growing economic environment with about 200 million citizens. COVID-19 has affected several country activities as the country steadily progressed from its first case to shutting down major airports, state-wide lockdown, curfews, and reviving its economy.
 
-In this project, i employ data science & analytics skills to collect data, explore the data, perform analysis, create visualizations, and generate insights.
+In this project, i employ data science & analytics skills to collect data from different source such as NCDC, JOHN HOPKINS, EXTERNAL DATA etc, combining and exploring the data, perform analysis, create visualizations, and generate insights on Nigeria covid'19 pandemic.
+
+My executive summary is prepared in a power point presentation slide 
